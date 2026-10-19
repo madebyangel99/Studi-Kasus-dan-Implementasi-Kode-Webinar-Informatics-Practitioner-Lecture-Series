@@ -1,6 +1,6 @@
 # Studi Kasus dan Implementasi Kode: Informatics Practitioner Lecture Series
 
-Repositori ini memuat rangkuman komprehensif serta implementasi praktis (studi kasus) dari rangkaian kegiatan "Informatics Practitioner Lecture Series" yang diselenggarakan oleh Program Studi Informatika, Universitas Bengkulu. 
+Repositori ini memuat rangkuman serta implementasi praktis (studi kasus) dari rangkaian kegiatan "Informatics Practitioner Lecture Series" yang diselenggarakan oleh Program Studi Informatika, Universitas Bengkulu. 
 
 Proyek ini bertujuan untuk mendokumentasikan wawasan yang diperoleh dari para pakar industri dan akademisi global, sekaligus menjembatani teori akademik dengan praktik nyata melalui implementasi kode berlandaskan kecerdasan buatan.
 
